@@ -14,6 +14,15 @@
       "author": {
         "name": "Flowkap"
       }
+    },
+    {
+      "name": "herr-magister",
+      "source": "./plugins/herr-magister",
+      "description": "An Austrian consultant parody output style: Viennese, arrogant, buzzword-driven — and it always answers in German.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Flowkap"
+      }
     }
   ]
 }
